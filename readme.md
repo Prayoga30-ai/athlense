@@ -1,2 +1,2 @@
-<hi>Athlense</hi>
+<hi>Athlense adalah proyek pengembangan teknologi bantu berbasis IoT dan Computer Vision yang dirancang khusus untuk atlet lari tunanetra. Sistem ini memanfaatkan Raspberry Pi, kamera, sensor ultrasonik, motor getar, dan audio TTS untuk membantu atlet mengikuti lintasan lomba secara mandiri dan aman. Dengan deteksi garis track berbasis OpenCV serta umpan balik suara dan getaran secara real-time, ATHLENSE tidak hanya menjaga keselamatan atlet dari rintangan atau tabrakan, tetapi juga mendukung peningkatan performa latihan. Proyek ini bertujuan menghadirkan solusi inklusif agar atlet tunanetra dapat berlatih dan berkompetisi dengan rasa percaya diri serta kesempatan yang setara.</hi>
 
